@@ -1,0 +1,11 @@
+{
+  "name": "Javad Bavi — Professional Profile",
+  "short_name": "Javad Bavi",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#101010",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
